@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#titulo-informação{
+     padding-top:  206px;
+     padding-left:  62px;
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#texto-informativo{
+    margin-top: 15px;
+    padding-left: 62px;
+    color: #FFFFFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#menu-principal{
+    background-color: #303030;
+}
+
+#menu-informativo{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    font-size: 25px;
+}
+
+#texto-informacao{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#titulo-imagem{
+    margin-top: 250px;
+    margin-left: 75px;
+}
+#texto-imagem{
+    margin-top: 35px;
+    margin-left: 75px;
+    font-size: 25px;
+}
+#imagem-ilustrativa{
+    margin-top: 85px;
+    margin-left: 60px;
+}
+#formulario{
+    background-color: #303030;
+    text-align: center;
+}
+#titulo-formulario{
+    margin: 30px;
+    color: #FFFFFF;
+    font-size: 32px;
+}
+input{
+    width: 400px;
+    height: 65px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #C07212;
+    font-weight: bolder;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #442b0da6;
+
+}
+
+
